@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Swapnil
 
 <!--
 **swapnildk23/swapnildk23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  I love building stuffs 🌱
+
+  
+  📫 Feel free to reach me on [LinkedIn](linkedin.com/in/swapnil-kore-22a815206)
