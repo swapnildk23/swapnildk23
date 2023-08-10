@@ -17,4 +17,4 @@ Here are some ideas to get you started:
   I love building stuffs 🌱
 
   
-  📫 Feel free to reach me on [LinkedIn](linkedin.com/in/swapnil-kore-22a815206)
+  📫 Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/swapnil-kore-22a815206/)
